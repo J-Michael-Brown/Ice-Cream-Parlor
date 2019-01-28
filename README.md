@@ -1,6 +1,6 @@
 # _Ice Cream Bar_
 
-#### _Site that allows a user to keep track of 'Tubs' of Ice cream, {latest Date}_
+#### _Site that allows a user to keep track of 'Tubs' of Ice cream, 1/24/19_
 
 #### By _**J. Michael Brown, and Daniel Benette**_
 
